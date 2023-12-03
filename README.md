@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Orozco</h1>
-<h3 align="center">A passionate automation engineer from Mexico</h3>
+<h3 align="center">A passionate Automation Engineer from Mexico</h3>
 
 - 📫 How to reach me **daniel.orozco.arredondo@gmail.com**
 
