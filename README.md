@@ -1,8 +1,9 @@
 <h1 align="left">Hi 👋, I'm Daniel Orozco
-<h2 align="left">A passionate Automation Engineer from Mexico.
-</p>
+<h3 align="left">A passionate Automation Engineer from Mexico.
 
+<p>
 - How to reach me: **daniel.orozco.arredondo@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
